@@ -7,10 +7,10 @@
 (def laura
   {:name "Laura Viglioni"
    :pronoums "she/her"
+   :age 28
    :work-place "Loft"
    :education ["M.Sc (ongoing) in Cryptography" 
                "B.Sc. in Computer Science @ UNICAMP"]
-   :age 28
    :city "São Paulo, 🇧🇷"
    :interests ["functional programming" "emacs" 
                "cryptography" "free software" 
