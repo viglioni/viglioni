@@ -21,6 +21,16 @@
    
 ```
 #### Laura news:
+[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+     alt="youtube logo"
+     height="20px"
+     align="left" /> 🇧🇷 Resolvendo problemas com Programação Funcional, Parte I (23/10/2020)](https://www.youtube.com/watch?v=11HGQkaOT8c)
+     
+[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+     alt="youtube logo"
+     height="20px"
+     align="left" /> 🇧🇷 Resolvendo Problemas com Programação Funcional, Parte II: Lentes (23/10/2020)](https://www.youtube.com/watch?v=pFYIDtgkYb0)
+     
 [<img src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg"
      alt="dev.to logo"
      height="20px"
@@ -29,7 +39,7 @@
 [<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
      alt="youtube logo"
      height="20px"
-     align="left" /> 🇧🇷 Live Coding: RamdaJS + Intro a Programação Funcional](https://www.youtube.com/watch?v=bTskYwX-c7U)
+     align="left" /> 🇧🇷 Introdutório de Programação Funcional com JavaScript + Ramda  (live coding 28/08/2020)](https://www.youtube.com/watch?v=bTskYwX-c7U)
      
 [<img src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg"
      alt="dev.to logo"
