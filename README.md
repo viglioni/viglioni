@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/EdD2XIGXoAE2fdF?format=jpg&name=medium"
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/functional.jpg"
      alt="Functional way is the right way"
      height="305px"
      align="left" />
