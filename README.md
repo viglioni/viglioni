@@ -1,5 +1,6 @@
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/functional.jpg"
      alt="Functional way is the right way"
+     style="margin-top:20px;"
      height="305px"
      align="left" />
 
@@ -17,7 +18,6 @@
                "web" "math" "progressive rock" 
                "dad jokes" "star wars quotes"]
    :lang [🇧🇷, 🇬🇧]})
-   
    
    
 ```
