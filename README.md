@@ -25,6 +25,11 @@
 [<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
      alt="youtube logo"
      height="20px"
+     align="left" /> 🇧🇷 Introdução ao LISP (clojure e elisp) - live coding (02/12/2020)](https://www.youtube.com/watch?v=IIp9YaXRHVY)
+     
+[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+     alt="youtube logo"
+     height="20px"
      align="left" /> 🇧🇷 Resolvendo problemas com Programação Funcional, Parte I (23/10/2020)](https://www.youtube.com/watch?v=11HGQkaOT8c)
      
 [<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
