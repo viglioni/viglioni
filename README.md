@@ -22,32 +22,37 @@
    
 ```
 #### Laura news:
-[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
+     height="20px"
+     align="left" /> 🇬🇧 How to use CMD as a leader key on Spacemacs](https://dev.to/viglioni/how-to-use-cmd-as-a-leader-key-on-spacemacs-3281)
+
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
      alt="youtube logo"
      height="20px"
      align="left" /> 🇧🇷 Introdução ao LISP (clojure e elisp) - live coding (02/12/2020)](https://www.youtube.com/watch?v=IIp9YaXRHVY)
      
-[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
      alt="youtube logo"
      height="20px"
      align="left" /> 🇧🇷 Resolvendo problemas com Programação Funcional, Parte I (23/10/2020)](https://www.youtube.com/watch?v=11HGQkaOT8c)
      
-[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
      alt="youtube logo"
      height="20px"
      align="left" /> 🇧🇷 Resolvendo Problemas com Programação Funcional, Parte II: Lentes (23/10/2020)](https://www.youtube.com/watch?v=pFYIDtgkYb0)
      
-[<img src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
      height="20px"
      align="left" /> 🇬🇧 How I Set Up My Emacs for TypeScript + React](https://dev.to/viglioni/how-i-set-up-my-emacs-for-typescript-3eeh)
 
-[<img src="https://i.pinimg.com/564x/77/5d/a9/775da9cfb16e7f95d92133e2aeee20b9.jpg"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
      alt="youtube logo"
      height="20px"
      align="left" /> 🇧🇷 Introdutório de Programação Funcional com JavaScript + Ramda  (live coding 28/08/2020)](https://www.youtube.com/watch?v=bTskYwX-c7U)
      
-[<img src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
      height="20px"
      align="left" /> 🇬🇧 Using URL as a global state - React Hook](https://dev.to/viglioni/using-url-as-a-global-state-react-hook-25l3)
@@ -55,16 +60,20 @@
 
 
 #### Find me on:
-[<img src="https://pbs.twimg.com/profile_images/1253165670935773185/SkSoEQL3_400x400.jpg"
-     alt="dev.to/viglioni"
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
      height="20px"
      align="left" 
      />](https://dev.to/viglioni)
-     [<img src="https://tr2.cbsistatic.com/hub/i/r/2015/07/21/e9a5d57a-923c-40cb-a103-47d2f27433ee/thumbnail/770x578/55b4263380b5da3b48b4b4fa131bad07/lgbttwitter.jpg"
-     alt="https://twitter.com/ViglioniLaura"
+     [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/twitter.jpeg"
+     alt="twitter logo"
      height="20px"
      align="left" />](https://twitter.com/ViglioniLaura)
-     [<img src="https://i.pinimg.com/originals/f2/ea/ee/f2eaee556138ea664bcb65256f6746c2.jpg"
-     alt="https://www.linkedin.com/in/viglioni/"
+     [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/linkedin.jpeg"
+     alt="linkedin logo"
      height="20px"
      align="left" />](https://www.linkedin.com/in/viglioni/)
+     [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
+     alt="youtube logo"
+     height="20px"
+     align="left" />](https://www.youtube.com/channel/UCodDftdRjG6vQVna5WoWFdA)
