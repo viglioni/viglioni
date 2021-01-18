@@ -68,7 +68,7 @@
      [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/twitter.jpeg"
      alt="twitter logo"
      height="20px"
-     align="left" />](https://twitter.com/ViglioniLaura)
+     align="left" />](https://twitter.com/LauraViglioni)
      [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/linkedin.jpeg"
      alt="linkedin logo"
      height="20px"
