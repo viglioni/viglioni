@@ -25,6 +25,11 @@
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
      height="20px"
+     align="left" /> 🇬🇧 Installing LaTeX themes on your machine/Emacs org-mode](https://dev.to/viglioni/installing-latex-themes-on-your-machine-emacs-org-mode-1k9e)
+     
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
+     height="20px"
      align="left" /> 🇬🇧 How to use CMD as a leader key on Spacemacs](https://dev.to/viglioni/how-to-use-cmd-as-a-leader-key-on-spacemacs-3281)
 
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
