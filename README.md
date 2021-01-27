@@ -25,6 +25,11 @@
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
      height="20px"
+     align="left" /> 🇬🇧 Mocking dependencies with Jest + TypeScript](https://dev.to/viglioni/mocking-dependencies-with-jest-typescript-12im)
+
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
+     height="20px"
      align="left" /> 🇬🇧 Installing LaTeX themes on your machine/Emacs org-mode](https://dev.to/viglioni/installing-latex-themes-on-your-machine-emacs-org-mode-1k9e)
      
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
