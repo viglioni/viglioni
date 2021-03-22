@@ -25,6 +25,11 @@
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
      height="20px"
+     align="left" /> 🇬🇧 Emacs as SQL client with LSP](https://dev.to/viglioni/emacs-as-sql-client-with-lsp-143l)
+     
+[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
+     height="20px"
      align="left" /> 🇬🇧 Mocking dependencies with Jest + TypeScript](https://dev.to/viglioni/mocking-dependencies-with-jest-typescript-12im)
 
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
