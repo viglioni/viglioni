@@ -32,7 +32,7 @@
      alt="emacs logo"
      height="30px"
      style="padding-right: 10px;"
-     align="center" /> Projectile: Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/commit/e8a3f11df57583ad089a4f00d652c80566ffeb09)
+     align="center" /> Projectile: Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/pull/1675)
      
 ---
 
