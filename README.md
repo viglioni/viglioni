@@ -1,4 +1,4 @@
-
+---
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/functional.jpg"
      alt="Functional way is the right way"
      style="margin-top:20px;"
