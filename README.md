@@ -1,4 +1,11 @@
+
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
+     alt="emacs logo"
+     height="30px"
+     align="right" />
+   
 ---
+
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/functional.jpg"
      alt="Functional way is the right way"
      style="margin-top:20px;"
@@ -20,8 +27,12 @@
                "dad jokes" "star wars quotes"]
    :lang [🇧🇷, 🇬🇧]})
 ```
-&nbsp;
 
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="github logo"
+     height="30px"
+     align="right" />
+     
 ---
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
      alt="github logo"
@@ -33,6 +44,12 @@
      height="30px"
      style="padding-right: 10px;"
      align="center" /> Projectile: Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/pull/1675)
+
+
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
+     height="30px"
+     align="right" />
      
 ---
 
@@ -54,7 +71,13 @@
     
 &nbsp;&nbsp;&nbsp;[🇬🇧 Using URL as a global state - React Hook](https://dev.to/viglioni/using-url-as-a-global-state-react-hook-25l3)
 
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
+     alt="youtube logo"
+     height="30px"
+     align="right" />
+     
 ---
+     
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
      alt="youtube logo"
      height="50px"
@@ -67,6 +90,12 @@
 &nbsp;&nbsp;&nbsp;[🇧🇷 Resolvendo Problemas com Programação Funcional, Parte II: Lentes (23/10/2020)](https://www.youtube.com/watch?v=pFYIDtgkYb0)
      
 &nbsp;&nbsp;&nbsp;[🇧🇷 Introdutório de Programação Funcional com JavaScript + Ramda  (live coding 28/08/2020)](https://www.youtube.com/watch?v=bTskYwX-c7U)
+  
+  
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/twitter.jpeg"
+     alt="twitter logo"
+     height="30px"
+     align="right" />
      
 ---
 
