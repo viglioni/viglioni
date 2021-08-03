@@ -49,7 +49,7 @@
      alt="emacs logo"
      height="30px"
      style="padding-right: 10px;"
-     align="center" /> MarbleJS Docs [PR1](https://github.com/marblejs/docs/pull/28) [PR2](https://github.com/marblejs/docs/pull/29)
+     align="center" /> MarbleJS Docs: [PR1](https://github.com/marblejs/docs/pull/28), [PR2](https://github.com/marblejs/docs/pull/29)
 
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
