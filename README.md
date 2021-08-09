@@ -39,17 +39,23 @@
      height="50px"
      align="center" /> &nbsp; **Free software contributions:**
     
-&nbsp;&nbsp;[<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
      alt="emacs logo"
      height="30px"
      style="padding-right: 10px;"
-     align="center" /> Projectile: Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/pull/1675)
+     align="center" /> Projectile: [Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/pull/1675)
 
 &nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/marblejs.png"
      alt="emacs logo"
      height="30px"
      style="padding-right: 10px;"
      align="center" /> MarbleJS Docs: [PR1](https://github.com/marblejs/docs/pull/28), [PR2](https://github.com/marblejs/docs/pull/29)
+     
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
+     alt="emacs logo"
+     height="30px"
+     style="padding-right: 10px;"
+     align="center" /> Yasnippet snippets: [Fix class snippet (js)](https://github.com/AndreaCrotti/yasnippet-snippets/pull/426)
 
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
