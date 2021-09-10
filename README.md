@@ -69,7 +69,8 @@
      height="50px"
      align="center" /> &nbsp; **Texts:**
 
-
+&nbsp;&nbsp;&nbsp;[🇬🇧 Creating Haskell notebooks with org-mode](https://dev.to/viglioni/creating-haskell-notebooks-with-org-mode-4h7)
+     
 &nbsp;&nbsp;&nbsp;[🇬🇧 Emacs as SQL client with LSP](https://dev.to/viglioni/emacs-as-sql-client-with-lsp-143l)
      
 &nbsp;&nbsp;&nbsp;[🇬🇧 Mocking dependencies with Jest + TypeScript](https://dev.to/viglioni/mocking-dependencies-with-jest-typescript-12im)
