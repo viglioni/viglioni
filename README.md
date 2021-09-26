@@ -56,6 +56,12 @@
      height="30px"
      style="padding-right: 10px;"
      align="center" /> Yasnippet snippets: [Fix class snippet (js)](https://github.com/AndreaCrotti/yasnippet-snippets/pull/426)
+     
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
+     alt="emacs logo"
+     height="30px"
+     style="padding-right: 10px;"
+     align="center" /> Emacs dashboard: [Added support for gifs](https://github.com/emacs-dashboard/emacs-dashboard/pull/327)     
 
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
