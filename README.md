@@ -28,6 +28,15 @@
    :lang [🇧🇷, 🇬🇧]})
 ```
 
+
+
+
+
+
+<!---------------------
+       FS SECTION 
+----------------------->
+
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
      alt="github logo"
      height="30px"
@@ -63,6 +72,18 @@
      style="padding-right: 10px;"
      align="center" /> Emacs dashboard: [Added support for gifs](https://github.com/emacs-dashboard/emacs-dashboard/pull/327)     
 
+
+
+
+
+
+
+
+
+<!---------------------
+     TEXTS SECTION 
+----------------------->
+
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
      alt="dev.to logo"
      height="30px"
@@ -89,6 +110,16 @@
     
 &nbsp;&nbsp;&nbsp;[🇬🇧 Using URL as a global state - React Hook](https://dev.to/viglioni/using-url-as-a-global-state-react-hook-25l3)
 
+
+
+
+
+
+
+<!---------------------
+    VIDEOS SECTION 
+----------------------->
+
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/youtube.jpeg"
      alt="youtube logo"
      height="30px"
@@ -110,13 +141,51 @@
 &nbsp;&nbsp;&nbsp;[🇧🇷 Introdutório de Programação Funcional com JavaScript + Ramda  (live coding 28/08/2020)](https://www.youtube.com/watch?v=bTskYwX-c7U)
   
   
+  
+  
+  
+  
+
+<!---------------------
+     GISTS SECTION 
+----------------------->
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="github logo"
+     height="30px"
+     align="right" />
+
+---
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="github logo"
+     height="50px"
+     align="center" /> &nbsp; **Some Gists:**
+
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="guthub"
+     height="30px"
+     style="padding-right: 10px;"
+     align="center" /> [All gists](https://gist.github.com/Viglioni)
+     
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/ts-logo.png"
+     alt="typescript logo"
+     height="30px"
+     style="padding-right: 10px;"
+     align="center" /> [A NonEmpty\<T\> type in TypeScript](https://gist.github.com/Viglioni/c47568a51a5b17ff2a8b7c4b71b175b0)
+
+     
+     
+     
+     
+<!---------------------
+  FIND ME ON SECTION 
+----------------------->
+
+
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/twitter.jpeg"
      alt="twitter logo"
      height="30px"
      align="right" />
-     
 ---
-
 
 #### Find me on:
 [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
