@@ -172,7 +172,11 @@
      style="padding-right: 10px;"
      align="center" /> [A NonEmpty\<T\> type in TypeScript](https://gist.github.com/Viglioni/c47568a51a5b17ff2a8b7c4b71b175b0)
 
-     
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/haskell-logo.png"
+     alt="haskell logo"
+     height="30px"
+     style="padding-right: 10px;"
+     align="center" /> [Encode/decode strings into strings of binaries](https://gist.github.com/Viglioni/ab9e7c974718756985d028bf978b1640)
      
      
      
