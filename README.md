@@ -179,7 +179,30 @@
      align="center" /> [Encode/decode strings into strings of binaries](https://gist.github.com/Viglioni/ab9e7c974718756985d028bf978b1640)
      
      
+<!---------------------
+     STATS SECTION 
+----------------------->
      
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="github logo"
+     height="30px"
+     align="right" />
+
+---
+
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/github.png"
+     alt="github logo"
+     height="50px"
+     align="center" /> &nbsp; **Stats:**
+     
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viglioni&layout=compact&langs_count=6&exclude_repo=lauremacs,.emacs.d"
+     align="center" 
+      />
+     
+ 
+<sub><a href="https://github.com/anuraghazra/github-readme-stats">github status</a></sub>
+ 
 <!---------------------
   FIND ME ON SECTION 
 ----------------------->
@@ -209,3 +232,8 @@
      alt="youtube logo"
      height="35px"
      align="center" />](https://www.youtube.com/channel/UCodDftdRjG6vQVna5WoWFdA)
+     
+     
+  ---
+     
+
