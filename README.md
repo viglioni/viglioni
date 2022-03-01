@@ -132,6 +132,8 @@
      height="50px"
      align="center" /> &nbsp; **Videos:**
 
+&nbsp;&nbsp;&nbsp;[🇧🇷 Tipos e Design de Código funcional em TypeScript (19/11/2021)](https://www.youtube.com/watch?v=mHa7_2THepc)
+
 &nbsp;&nbsp;&nbsp;[🇧🇷 Introdução ao LISP (clojure e elisp) - live coding (02/12/2020)](https://www.youtube.com/watch?v=IIp9YaXRHVY)
      
 &nbsp;&nbsp;&nbsp;[🇧🇷 Resolvendo problemas com Programação Funcional, Parte I (23/10/2020)](https://www.youtube.com/watch?v=11HGQkaOT8c)
