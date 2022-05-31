@@ -198,7 +198,7 @@
      align="center" /> &nbsp; **Stats:**
      
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viglioni&layout=compact&langs_count=6&exclude_repo=lauremacs,.emacs.d"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viglioni&layout=compact&langs_count=6&exclude_repo=lauremacs,.emacs.d,projectile"
      align="center" 
       />
      
