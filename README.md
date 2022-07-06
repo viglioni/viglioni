@@ -16,8 +16,8 @@
 (def laura
   {:name "Laura Viglioni"
    :pronouns "she/her"
-   :age 29
-   :work-place "Loft"
+   :age 30
+   :work-place "FindHotel"
    :education ["M.Sc (ongoing) in Cryptography" 
                "B.Sc. in Computer Science @ UNICAMP"]
    :city "São Paulo, 🇧🇷"
