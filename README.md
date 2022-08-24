@@ -96,6 +96,9 @@
      height="50px"
      align="center" /> &nbsp; **Texts:**
 
+
+&nbsp;&nbsp;&nbsp;[🇬🇧 Writing and Testing a stdin script with TypeScript](https://dev.to/viglioni/writing-and-testing-a-stdin-script-with-typescript-57mb)
+
 &nbsp;&nbsp;&nbsp;[🇬🇧 Creating Haskell notebooks with org-mode](https://dev.to/viglioni/creating-haskell-notebooks-with-org-mode-4h7)
      
 &nbsp;&nbsp;&nbsp;[🇬🇧 Emacs as SQL client with LSP](https://dev.to/viglioni/emacs-as-sql-client-with-lsp-143l)
