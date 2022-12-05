@@ -20,7 +20,7 @@
    :work-place  "FindHotel"
    :education   ["M.Sc (ongoing) in Cryptography" 
                  "B.Sc. in Computer Science @ UNICAMP"]
-   :city        "São Paulo, 🇧🇷"
+   :city        "Belo Horizonte, 🇧🇷"
    :interests   ["functional programming" "emacs" 
                  "cryptography" "free software" 
                  "web" "math" "progressive rock" 
@@ -134,6 +134,8 @@
      alt="youtube logo"
      height="50px"
      align="center" /> &nbsp; **Videos:**
+
+&nbsp;&nbsp;&nbsp;[🇬🇧 Dealing with data structures without mutation (20/09/2022)](https://youtu.be/TYwwBD5vysA)
 
 &nbsp;&nbsp;&nbsp;[🇧🇷 Tipos e Design de Código funcional em TypeScript (19/11/2021)](https://www.youtube.com/watch?v=mHa7_2THepc)
 
