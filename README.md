@@ -134,6 +134,10 @@
      alt="youtube logo"
      height="50px"
      align="center" /> &nbsp; **Videos:**
+     
+&nbsp;&nbsp;&nbsp;[🇬🇧 Using io-ts to validade data (22/12/2022)](https://youtu.be/Hg6Esn_vKa8)
+
+&nbsp;&nbsp;&nbsp;[🇬🇧 The fp-ts Either type (15/12/2022)](https://youtu.be/2smnZKKaefc)
 
 &nbsp;&nbsp;&nbsp;[🇬🇧 Dealing with data structures without mutation (20/09/2022)](https://youtu.be/TYwwBD5vysA)
 
