@@ -12,20 +12,21 @@
      height="280px"
      align="left" />
 
-```clojure
-(def laura
-  {:name        "Laura Viglioni"
-   :pronouns    "she/her"
-   :age         30
-   :work-place  "Vio.com"
-   :education   ["M.Sc (ongoing) in Cryptography" 
-                 "B.Sc. in Computer Science @ UNICAMP"]
-   :city        "Belo Horizonte, 🇧🇷"
-   :interests   ["functional programming" "emacs" 
-                 "cryptography" "free software" 
-                 "web" "math" "progressive rock" 
-                 "dad jokes" "star wars quotes"]
-   :lang        [🇧🇷, 🇬🇧]})
+```emacs-lisp
+(defvar laura
+  '(:name        "Laura Viglioni"
+    :pronouns    "she/her"
+    :age         30
+    :work-place  "Vio.com"
+    :education   '("M.Sc (ongoing) in Cryptography" 
+                   "B.Sc. in Computer Science @ UNICAMP")
+    :city        "Belo Horizonte, 🇧🇷"
+    :interests   '("functional programming" "emacs" 
+                   "cryptography" "free software" 
+                   "web" "maths" "progressive rock" 
+                   "dad jokes" "star wars quotes")
+    :lang        [🇧🇷, 🇬🇧]))
+
 ```
 
 
