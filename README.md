@@ -17,7 +17,7 @@
   {:name        "Laura Viglioni"
    :pronouns    "she/her"
    :age         30
-   :work-place  "FindHotel"
+   :work-place  "Vio.com"
    :education   ["M.Sc (ongoing) in Cryptography" 
                  "B.Sc. in Computer Science @ UNICAMP"]
    :city        "Belo Horizonte, 🇧🇷"
