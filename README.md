@@ -9,7 +9,7 @@
 <img src="https://github.com/Viglioni/viglioni/blob/main/pics/functional.jpg"
      alt="Functional way is the right way"
      style="margin-top:20px;"
-     height="280px"
+     height="330px"
      align="left" />
 
 ```emacs-lisp
@@ -18,14 +18,16 @@
     :pronouns    "she/her"
     :age         30
     :work-place  "Vio.com"
-    :education   '("M.Sc (ongoing) in Cryptography" 
-                   "B.Sc. in Computer Science @ UNICAMP")
+    :position    "senior software engineer"
+    :education   (mapcar '(λ (el) (concat el " @ UNICAMP")
+                         '("M.Sc in Cryptography (ongoing)" 
+                           "B.Sc. in Computer Science")
     :city        "Belo Horizonte, 🇧🇷"
     :interests   '("functional programming" "emacs" 
                    "cryptography" "free software" 
                    "web" "maths" "progressive rock" 
                    "dad jokes" "star wars quotes")
-    :lang        [🇧🇷, 🇬🇧]))
+    :lang        '(🇧🇷, 🇬🇧)))
 
 ```
 
