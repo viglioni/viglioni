@@ -50,7 +50,13 @@
      alt="github logo"
      height="50px"
      align="center" /> &nbsp; **Free software contributions:**
-    
+
+&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
+     alt="emacs logo"
+     height="30px"
+     style="padding-right: 10px;"
+     align="center" /> Flycheck-credo: [added support for elixir-ts-mode](https://github.com/aaronjensen/flycheck-credo/pull/6)
+     
 &nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
      alt="emacs logo"
      height="30px"
