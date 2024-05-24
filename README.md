@@ -16,7 +16,7 @@
 (defvar laura
   '(:name        "Laura Viglioni"
     :pronouns    "she/her"
-    :age         31
+    :age         32
     :work-place  "Vio.com"
     :position    "senior software engineer"
     :education   (mapcar '(λ (el) (concat el " @ UNICAMP")
