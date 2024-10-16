@@ -19,12 +19,11 @@
     :age         32
     :work-place  "Vio.com"
     :position    "senior software engineer"
-    :education   (mapcar '(λ (el) (concat el " @ UNICAMP")
-                         '("M.Sc in Cryptography (ongoing)" 
-                           "B.Sc. in Computer Science")
+    :education   "B.Sc. in Computer Science  @ UNICAMP"
     :city        "Belo Horizonte, 🇧🇷"
     :interests   '("functional programming" "emacs" 
-                   "cryptography" "free software" 
+                   "cryptography" "free software"
+                   "elixir" "lisp" "haskell"
                    "web" "maths" "progressive rock" 
                    "dad jokes" "star wars quotes")
     :lang        '(🇧🇷, 🇬🇧)))
