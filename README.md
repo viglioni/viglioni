@@ -227,8 +227,8 @@
 ----------------------->
 
 
-<img src="https://github.com/Viglioni/viglioni/blob/main/pics/twitter.jpeg"
-     alt="twitter logo"
+<img src="https://github.com/Viglioni/viglioni/blob/main/pics/dev.jpeg"
+     alt="dev.to logo"
      height="30px"
      align="right" />
 ---
@@ -239,10 +239,6 @@
      height="35px"
      align="center" 
      />](https://dev.to/viglioni)
-     [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/twitter.jpeg"
-     alt="twitter logo"
-     height="35px"
-     align="center" />](https://twitter.com/LauraViglioni)
      [<img src="https://github.com/Viglioni/viglioni/blob/main/pics/linkedin.jpeg"
      alt="linkedin logo"
      height="35px"
