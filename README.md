@@ -17,7 +17,7 @@
   '(:name        "Laura Viglioni"
     :pronouns    "she/her"
     :age         33
-    :work-place  "Vio.com"
+    :work-place  "canary technologies"
     :position    "senior software engineer"
     :education   "B.Sc. in Computer Science  @ UNICAMP"
     :city        "Belo Horizonte, 🇧🇷"
