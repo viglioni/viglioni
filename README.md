@@ -50,7 +50,7 @@
      height="50px"
      align="center" /> &nbsp; **Free software contributions:**
 
- | Picture | Project Name | Pull Request |
+ |  | Project | Pull Request |
   |---------|--------------|----------------|
   | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | lsp-mode | [bug-fix: lsp-install-server](https://github.com/emacs-lsp/lsp-mode/pull/4937) |
   | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | Flycheck-credo | [added support for elixir-ts-mode](https://github.com/aaronjensen/flycheck-credo/pull/6) |
