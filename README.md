@@ -50,37 +50,14 @@
      height="50px"
      align="center" /> &nbsp; **Free software contributions:**
 
-&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
-     alt="emacs logo"
-     height="30px"
-     style="padding-right: 10px;"
-     align="center" /> Flycheck-credo: [added support for elixir-ts-mode](https://github.com/aaronjensen/flycheck-credo/pull/6)
-     
-&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
-     alt="emacs logo"
-     height="30px"
-     style="padding-right: 10px;"
-     align="center" /> Projectile: [Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/pull/1675)
-
-&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/marblejs.png"
-     alt="emacs logo"
-     height="30px"
-     style="padding-right: 10px;"
-     align="center" /> MarbleJS Docs: [PR1](https://github.com/marblejs/docs/pull/28), [PR2](https://github.com/marblejs/docs/pull/29)
-     
-&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
-     alt="emacs logo"
-     height="30px"
-     style="padding-right: 10px;"
-     align="center" /> Yasnippet snippets: [Fix class snippet (js)](https://github.com/AndreaCrotti/yasnippet-snippets/pull/426)
-     
-&nbsp;&nbsp;<img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png"
-     alt="emacs logo"
-     height="30px"
-     style="padding-right: 10px;"
-     align="center" /> Emacs dashboard: [Added support for gifs](https://github.com/emacs-dashboard/emacs-dashboard/pull/327)     
-
-
+ | Picture | Project Name | Pull Request |
+  |---------|--------------|----------------|
+  | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | lsp-mode | [bug-fix: lsp-install-server](https://github.com/emacs-lsp/lsp-mode/pull/4937) |
+  | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | Flycheck-credo | [added support for elixir-ts-mode](https://github.com/aaronjensen/flycheck-credo/pull/6) |
+  | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | Projectile | [Add optional params to projectile-run-(async)-shell-command](https://github.com/bbatsov/projectile/pull/1675) |
+  | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/marblejs.png" alt="marblejs logo" height="30px" align="center" /> | MarbleJS Docs | [PR1](https://github.com/marblejs/docs/pull/28), [PR2](https://github.com/marblejs/docs/pull/29) |
+  | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | Yasnippet snippets | [Fix class snippet (js)](https://github.com/AndreaCrotti/yasnippet-snippets/pull/426) |
+  | <img src="https://github.com/Viglioni/viglioni/blob/main/pics/emacs logo.png" alt="emacs logo" height="30px" align="center" /> | Emacs dashboard | [Added support for gifs](https://github.com/emacs-dashboard/emacs-dashboard/pull/327) |
 
 
 
