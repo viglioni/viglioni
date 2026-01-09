@@ -25,7 +25,7 @@
                    "cryptography" "free software"
                    "elixir" "lisp" "haskell"
                    "web" "maths" "progressive rock" 
-                   "dad jokes" "star wars quotes")
+                   "dad jokes")
     :lang        '(🇧🇷, 🇬🇧)))
 
 ```
